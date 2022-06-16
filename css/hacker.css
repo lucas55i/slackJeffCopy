@@ -1,0 +1,15 @@
+body {
+  background-color: #0b0b0b;
+  margin: auto;
+  max-width: 70%;
+  font-size: 110%;
+  font-family: sans-serif;
+  color: #0bff00;
+}
+strong {
+  color: rgb(227, 8, 235);
+}
+a {
+  color: white;
+  margim-bottom: 10px;
+}
